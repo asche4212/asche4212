@@ -8,7 +8,7 @@ I work with **Angular, React, Next.js, Node.js, and React Native (Expo)** to bri
 - 👯 I’m looking to collaborate on: Open-source projects in React, Angular, or Node.js  
 - 🤔 I’m looking for help with: Best practices for multi-platform authentication (Web + Mobile)  
 - 💬 Ask me about: Full-stack development, frontend architecture, mobile app development  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ashok-kumar-39b065122/) | [Portfolio](loading....)  
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ashok-kumar-39b065122/) | [Portfolio](https://asche4212.github.io/AshokaTheDev.github.io/)  
 - ⚡ Fun fact: I debug my own bugs faster with coffee ☕ than without 😅  
 
 ---
