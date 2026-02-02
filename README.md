@@ -40,9 +40,11 @@ I work with **Angular, React, Next.js, Node.js, and React Native (Expo)** to bri
 
 ## 📊 GitHub Stats  
 
-![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=asche4212&show_icons=true&theme=radical)  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asche4212&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asche4212&layout=compact&theme=radical)  
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asche4212&theme=radical)
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=asche4212&theme=radical)
 
 ---
 
