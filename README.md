@@ -44,7 +44,7 @@ I work with **Angular, React, Next.js, Node.js, and React Native (Expo)** to bri
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asche4212&theme=radical)
  
-![GitHub Streak](https://streak-stats.demolab.com?user=asche4212&theme=radical)
+![GitHub Streak]([https://streak-stats.demolab.com?user=asche4212&theme=radical](https://streak-stats.demolab.com/?user=asche4212&theme=radical))
 
 ---
 
